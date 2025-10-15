@@ -36,3 +36,18 @@ img {
 button {
   font: inherit;
 }
+
+ul, ol {
+    list-style: none;
+}
+address{
+  font-style: normal;
+    display: block;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    background: none;
+    text-decoration: none;
+    list-style: none;
+    font-style: inherit;
+}
